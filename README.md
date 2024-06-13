@@ -1,0 +1,2 @@
+# ISM6575-wk2
+12JUNE2024 ISM6575 Class Overview
